@@ -44,7 +44,8 @@ Through events emitted by the contract, the PoolPays system:
 - All permissions and roles configured
 
 ### **2. Administrative Privilege Renunciation**
-- **Transaction Hash**: [0x80656cc74b33f5fff2a34439e733803940ce6afa5aee3a2412a0638b71d31266](https://arbiscan.io/tx/0x80656cc74b33f5fff2a34439e733803940ce6afa5aee3a2412a0638b71d31266)
+- **Transaction Hash**: [0x46ba643d61f91274d4dd96e0f2e2b95a5fd5f1773ea9a856dfd09be5f5bb3bab](https://arbiscan.io/tx/0x46ba643d61f91274d4dd96e0f2e2b95a5fd5f1773ea9a856dfd09be5f5bb3bab)
+- **Transaction Hash**: [0x60f64ae9033432fa3d3b0e7bee5f45dede1addb89aebb2c3ef60c9daae24205d](https://arbiscan.io/tx/0x60f64ae9033432fa3d3b0e7bee5f45dede1addb89aebb2c3ef60c9daae24205d)
 - Creator revoked **all** ADMIN permissions
 - Contract now operates in a decentralized manner
 - **Irreversible**: No entity can recover administrative control
@@ -116,4 +117,4 @@ This protocol operates in a decentralized and autonomous manner. Conduct your ow
 
 ---
 
-**Built on Arbitrum One** | **Powered by Uniswap V3** | **Secured by Design**
+**Built on Arbitrum One** | **Powered by Uniswap V3** | **Secured by Design V3**
